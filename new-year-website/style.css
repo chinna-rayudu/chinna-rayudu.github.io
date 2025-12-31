@@ -155,3 +155,8 @@ body {
   background: rgba(255, 255, 255, 0.92);
   box-shadow: 0 0 25px rgba(255, 215, 0, 0.15);
 }
+
+
+.happy-new-year {
+  color: #00e5ff; /* Golden yellow (same feel as 2026) */
+}
