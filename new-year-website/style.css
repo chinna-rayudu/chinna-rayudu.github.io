@@ -136,3 +136,15 @@ canvas {
   inset: 0;
   z-index: 1;
 }
+
+
+
+
+body {
+  animation: zoomBg 20s infinite alternate;
+}
+
+@keyframes zoomBg {
+  from { background-size: 100%; }
+  to { background-size: 110%; }
+}
