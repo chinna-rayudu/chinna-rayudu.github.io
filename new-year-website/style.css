@@ -108,6 +108,7 @@ body {
 .title {
   font-size: 2.5rem;
   animation: fadeIn 2s ease-in-out infinite alternate;
+  color: #ffffff;
 }
 
 .year {
@@ -157,6 +158,3 @@ body {
 }
 
 
-.happy-new-year {
-  color: #ffffff;
-}
